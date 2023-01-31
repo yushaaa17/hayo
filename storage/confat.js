@@ -145,7 +145,6 @@ exports.downloadmenu = (prefix) => {
 🍃 ${prefix}tiktokaudio
 🍃 ${prefix}instagram
 🍃 ${prefix}mediafire
-🍃 ${prefix}play
 🍃 ${prefix}yts
 🍃 ${prefix}ytmp3
 🍃 ${prefix}ytmp4
